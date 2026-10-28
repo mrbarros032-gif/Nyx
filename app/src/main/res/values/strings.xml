@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nyx</string>
+
+    <string name="app_error_network">Falha na conexão. Verifique sua internet e tente novamente.</string>
+    <string name="app_error_risk_control">Rede ocupada, tente novamente mais tarde.</string>
+    <string name="app_error_unauthorized">Conteúdo não disponível</string>
+    <string name="firebase_auth_signed_out">Entre na sua conta para ver histórico, estatísticas e músicas salvas</string>
+    <string name="app_error_parse">Falha ao processar os dados</string>
+    <string name="app_error_biz_default">Operação falhou, tente novamente</string>
+    <string name="recognition_tile_label">Identificar Música</string>
+</resources>
